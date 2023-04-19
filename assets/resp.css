@@ -1,0 +1,60 @@
+@media (max-width:1200px){
+    .menu-wrap{
+        display: block !important;
+    }
+    .nav-outer{
+        display: none !important;
+    }
+    #abo .box{
+        width: 90% !important;
+    }
+    #roadd .center .inner .box{
+        width: 70% !important;
+        height: 100%;
+        font-size: 90%;
+        padding-left: 0.5rem;
+    }
+    #stat .center-cont .inner{
+        flex-direction: column;
+    }
+    #statss .main-cont{
+        position: relative !important;
+        height: max-content;
+    }
+    #statss{
+        height: max-content;
+    }
+    #stat .center-cont{
+        position: relative;
+        padding-top: 5rem;
+        padding-bottom: 10rem;
+    }
+    #stat .center-cont .box{
+        width: 22rem !important;
+    }
+    #faqqq .box{
+        width: 300px !important;
+        max-height: 400px;
+        contain: content;
+        overflow-y:scroll;
+    }
+    #index .center .box {
+        width: 90%;
+    }
+    #abo .box{
+        height: 400px !important;
+    }
+    .footer-outer .inner{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .logo-mob{
+        position:absolute;
+        top: 1%;
+        left: 3%;
+        scale: 0.8;
+    }
+    .logo-mob{
+        display: block !important;
+      }
+}
